@@ -1,0 +1,69 @@
+@media(max-width:1289px){
+    .right {
+        width: 100%;
+     
+      }
+      .container {
+        width: 100%;
+        margin: auto;
+      }
+}
+@media(max-width:876px){
+    .left {
+        width: 100%;
+   
+      }
+      left h1 {
+  
+       width: 100%;
+        text-align: center;
+      }
+      .container{
+        width: 100%;
+        text-align: center;
+      }
+      .right ul {
+        text-align: center;
+      }
+}
+@media(max-width:376px){
+    .banner-section {
+        background-image: url("https://img.hotimg.com/header-bg01f313590d8b13d1f3.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 40px 0;
+        text-align: center;
+      }
+      .banner-section h1 {
+        color: #fff;
+        padding: 30px 0;
+        font-size: 30px;
+      }
+      .text h3 {
+        text-transform: capitalize;
+        color: #ffff;
+        font-size: 15px;
+        padding: 10px 2px;
+      }
+      .service-section {
+        border-bottom: 2px solid #22c3a3;
+
+      }
+      .write p {
+        padding: 15px 0;
+        text-transform: capitalize;
+        font-size: 10px;
+        text-align: center;
+        margin-right: 23px;
+      }
+      .card-section {
+        width: 50%;
+      
+        
+      }
+      .write-section {
+        width: 100%;
+      }
+}
+
+ 
